@@ -42,6 +42,6 @@ I am passionate about solving problems and building new products. I developed co
   <a href="https://wa.me/5561981309888" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
 
-   ![Git Snake dark](https://github.com/MSp1d3r/MSp1d3r/blob/34ed7d753afd9d1bd0ae394b2dae6152254803ac/github-contribution-grid-snake.svg)
+   ![Git Snake dark](https://github.com/yurinhoo/yurinhoo/blob/34ed7d753afd9d1bd0ae394b2dae6152254803ac/github-contribution-grid-snake.svg)
  
 </div>
