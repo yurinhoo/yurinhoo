@@ -28,9 +28,9 @@ I am passionate about solving problems and building new products. I developed co
 </div>
 <br>
 <div>
-<a href="https://github.com/yurinhoo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurinhoo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurinhoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/yuribasilio">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuribasilio&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuribasilio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
@@ -41,6 +41,6 @@ I am passionate about solving problems and building new products. I developed co
   <a href="https://www.linkedin.com/in/yuribasilio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5561981309888" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-  ![Git Snake dark](https://github.com/yurinhoo/yurinhoo/blob/output/github-contribution-grid-snake.svg)
+  ![Git Snake dark](https://github.com/yuribasilio/yuribasilio/blob/output/github-contribution-grid-snake.svg)
 
 </div>
