@@ -1,4 +1,4 @@
-🎓 I have a Bachelor's Degree in Communication from the ICESP University but I have always found myself in the area of software development. I have over 9 years of experience in the Development field. Specialist in Frontend Software Development (Javascript, ReactJS, AngularJS) and Backend (PHP, Python, NodeJS).
+🎓 I have a Bachelor's Degree in Communication from the ICESP University but I have always found myself in the area of software development. I have over 9 years of experience in the Development field. Specialist in Frontend Software Development (Javascript, ReactJS, AngularJS) and Backend (Python, NodeJS).
 
 I am passionate about solving problems and building new products. I developed complex software in the private sphere, I was able to help in the growth of an American startup (ZipMesh).
 
